@@ -5,7 +5,6 @@ namespace areapreco
 {
     class areaPreco
     {
-
         static void Main(String[] args)
         {
             double largura, comprimento, precoMetroQuadrado, area, precoarea;
